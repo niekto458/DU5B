@@ -1,1 +1,1 @@
-# DU5B
+# DU5B (kalkulacka)
